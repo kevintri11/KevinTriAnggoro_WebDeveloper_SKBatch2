@@ -78,4 +78,4 @@ Data posisi, deskripsi, kualifikasi, lokasi, dan kisaran gaji yang ditampilkan m
 
 ## Penggunaan AI
 
-OpenAI Codex digunakan untuk membantu membaca brief, menyesuaikan komponen dan konten landing page, serta menyusun dokumentasi proyek.
+AI digunakan secara terbatas untuk membantu merapikan dokumentasi proyek. Pengembangan dan penyesuaian utama landing page dikerjakan secara mandiri.
