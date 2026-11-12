@@ -62,15 +62,15 @@ npm run preview
 
 ## Struktur komponen utama
 
-| File | Kegunaan |
-| --- | --- |
-| `src/pages/Home.jsx` | Menyusun halaman utama. |
-| `src/partials/HeroHome.jsx` | Headline dan CTA pembuka. |
-| `src/partials/About.jsx` | Ringkasan Sekolah Karir. |
-| `src/partials/Lowongan.jsx` | Kartu lowongan dan modal Apply. |
-| `src/partials/Newsletter.jsx` | CTA penutup. |
-| `src/partials/Header.jsx` dan `src/partials/Footer.jsx` | Navigasi halaman. |
-| `src/components/ui/dot-pattern.jsx` | Latar berpola titik. |
+| File                                                    | Kegunaan                        |
+| ------------------------------------------------------- | ------------------------------- |
+| `src/pages/Home.jsx`                                    | Menyusun halaman utama.         |
+| `src/partials/HeroHome.jsx`                             | Headline dan CTA pembuka.       |
+| `src/partials/About.jsx`                                | Ringkasan Sekolah Karir.        |
+| `src/partials/Lowongan.jsx`                             | Kartu lowongan dan modal Apply. |
+| `src/partials/Newsletter.jsx`                           | CTA penutup.                    |
+| `src/partials/Header.jsx` dan `src/partials/Footer.jsx` | Navigasi halaman.               |
+| `src/components/ui/dot-pattern.jsx`                     | Latar berpola titik.            |
 
 ## Catatan data dan formulir
 
@@ -78,4 +78,4 @@ Data posisi, deskripsi, kualifikasi, lokasi, dan kisaran gaji yang ditampilkan m
 
 ## Penggunaan AI
 
-AI digunakan secara terbatas untuk membantu merapikan dokumentasi proyek. Pengembangan dan penyesuaian utama landing page dikerjakan secara mandiri.
+AI digunakan secara terbatas untuk membantu merapikan dokumentasi proyek. Pengembangan dan penyesuaian utama landing page dikerjakan secara bertahap.
